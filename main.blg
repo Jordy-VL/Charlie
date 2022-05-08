@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: plainnat.bst
+Illegal, another \bibstyle command---line 33 of file main.aux
+ : \bibstyle
+ :          {stys/neurips_2021}
+I'm skipping whatever remains of this command
+Database file #1: main.bib
+You've used 3 entries,
+            2773 wiz_defined-function locations,
+            616 strings with 5524 characters,
+and the built_in function-call counts, 1609 in all, are:
+= -- 135
+> -- 115
+< -- 1
++ -- 39
+- -- 36
+* -- 144
+:= -- 261
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 21
+chr.to.int$ -- 3
+cite$ -- 6
+duplicate$ -- 62
+empty$ -- 115
+format.name$ -- 39
+if$ -- 320
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 3
+newline$ -- 23
+num.names$ -- 12
+pop$ -- 37
+preamble$ -- 1
+purify$ -- 18
+quote$ -- 0
+skip$ -- 49
+stack$ -- 0
+substring$ -- 59
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 33
+warning$ -- 0
+while$ -- 14
+width$ -- 0
+write$ -- 46
+(There was 1 error message)

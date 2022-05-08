@@ -1,0 +1,29 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[ASRM(2004)]{practice2004current}
+ASRM.
+\newblock Current evaluation of amenorrhea.
+\newblock \emph{Fertility and sterility}, 82:\penalty0 33--39, 2004.
+
+\bibitem[Familiari et~al.(2006)Familiari, Heyn, Relucenti, Nottola, and
+  Sathananthan]{familiari2006ultrastructural}
+Giuseppe Familiari, Rosemarie Heyn, Michela Relucenti, Stefania~A Nottola, and
+  A~Henry Sathananthan.
+\newblock Ultrastructural dynamics of human reproduction, from ovulation to
+  fertilization and early embryo development1.
+\newblock \emph{International review of cytology}, 249:\penalty0 53--141, 2006.
+
+\bibitem[Nwabuobi et~al.(2017)Nwabuobi, Arlier, Schatz, Guzeloglu-Kayisli,
+  Lockwood, and Kayisli]{nwabuobi2017hcg}
+Chinedu Nwabuobi, Sefa Arlier, Frederick Schatz, Ozlem Guzeloglu-Kayisli,
+  Charles~Joseph Lockwood, and Umit~Ali Kayisli.
+\newblock hcg: biological functions and clinical applications.
+\newblock \emph{International Journal of Molecular Sciences}, 18\penalty0
+  (10):\penalty0 2037, 2017.
+
+\end{thebibliography}
